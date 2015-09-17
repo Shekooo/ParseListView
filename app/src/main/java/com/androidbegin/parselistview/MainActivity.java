@@ -17,6 +17,8 @@ import com.parse.ParseException;
 import com.parse.ParseObject;
 import com.parse.ParseQuery;
 
+
+//han2ol eh?
 public class MainActivity extends Activity {
 	// Declare Variables
 	ListView listview;
